@@ -20,8 +20,8 @@
 - Good communication 
 - ## Let's Connect
 
-- [GitHub](https://github.com/mohammadmansy)
-- [LinkedIn](linkedin.com/in/mohammedmansy)
+- GitHub:[https://github.com/mohammadmans]
+- LinkedIn:[linkedin.com/in/mohammedmansy]
 - 📧 Email: [muhammad.a.mansy@gmail.com]
 ## My Projects
 
