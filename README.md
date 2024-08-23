@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with fellow developers and creators on exciting projects that leverage my skills and interests. i hope i found in Game Programming Track
 ## My Skills
 
-- **Programming Languages:** C# ,C++,.
+- **Programming Languages:** C# .
 - **Game Engines:** Unity.
 - **Game Design:** Level design, gameplay mechanics, storytelling.
 - **AR Development:** Creating immersive experiences.
